@@ -45,12 +45,14 @@
 
 ---
 
+
 ### 📊 Estadísticas
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabi-valencia&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-valencia&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
 </p>
+
 
 <!-- Banner de abajo -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
