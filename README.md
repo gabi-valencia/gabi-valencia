@@ -40,19 +40,8 @@
 ### 💻 Programando...
 
 <p align="center">
-  AQUÍ_VA_TU_GIF
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1500&color=7F52FF&multiline=true&width=560&height=95&lines=val+stack+%3D+listOf%28%22Java%22%2C+%22Python%22%2C+%22Kotlin%22%29;val+objetivo+%3D+%22Primeras+pr%C3%A1cticas%22;println%28%22Siempre+aprendiendo+%F0%9F%9A%80%22%29" />
 </p>
-
----
-
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabi-valencia&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabi-valencia&layout=compact&theme=tokyonight&hide_border=true&locale=es" />
-</p>
-
 
 <!-- Banner de abajo -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
