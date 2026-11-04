@@ -44,7 +44,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28" /> Programando...
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1500&color=7F52FF&multiline=true&width=560&height=95&lines=val+stack+%3D+listOf%28%22Java%22%2C+%22Python%22%2C+%22Kotlin%22%29;val+objetivo+%3D+%22Primeras+pr%C3%A1cticas%22;println%28%22Siempre+aprendiendo+%F0%9F%9A%80%22%29" />
+  <img src="codigo.svg" width="620" />
 </p>
 
 ---
@@ -63,6 +63,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope%20with%20Arrow.png" width="28" /> Contacto
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-valencia-9324a02b8/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:gabitovalenciabanares@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
