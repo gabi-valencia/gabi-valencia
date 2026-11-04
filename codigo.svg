@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="320" viewBox="0 0 620 320" font-family="Consolas, 'Fira Code', 'Courier New', monospace" font-size="15">
+<rect x="1" y="1" width="618" height="318" rx="12" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<path d="M1 13 a12 12 0 0 1 12 -12 H607 a12 12 0 0 1 12 12 V40 H1 Z" fill="#161B22"/>
+<circle cx="22" cy="21" r="6" fill="#FF5F56"/>
+<circle cx="42" cy="21" r="6" fill="#FFBD2E"/>
+<circle cx="62" cy="21" r="6" fill="#27C93F"/>
+<rect x="96" y="8" width="90" height="32" rx="6" fill="#0D1117"/><text x="141" y="29" fill="#E6EDF3" font-size="13" text-anchor="middle">Main.kt</text>
+<line x1="1" y1="236" x2="619" y2="236" stroke="#30363D"/>
+<clipPath id="c0"><rect x="50" y="55" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.030;0.085;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="72" fill="#484F58" text-anchor="end">1</text>
+<text x="50" y="72" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#FF7B72">fun </tspan><tspan fill="#D2A8FF">main</tspan><tspan fill="#E6EDF3">() {</tspan></text>
+<clipPath id="c1"><rect x="50" y="79" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.095;0.150;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="96" fill="#484F58" text-anchor="end">2</text>
+<text x="50" y="96" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#E6EDF3">    </tspan><tspan fill="#FF7B72">val </tspan><tspan fill="#E6EDF3">dev = </tspan><tspan fill="#FFA657">Desarrollador</tspan><tspan fill="#E6EDF3">(</tspan><tspan fill="#A5D6FF">"Gabriel"</tspan><tspan fill="#E6EDF3">)</tspan></text>
+<clipPath id="c2"><rect x="50" y="103" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.160;0.215;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="120" fill="#484F58" text-anchor="end">3</text>
+<text x="50" y="120" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#E6EDF3">    dev.</tspan><tspan fill="#D2A8FF">aprender</tspan><tspan fill="#E6EDF3">(</tspan><tspan fill="#A5D6FF">"Java"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"Python"</tspan><tspan fill="#E6EDF3">, </tspan><tspan fill="#A5D6FF">"Kotlin"</tspan><tspan fill="#E6EDF3">)</tspan></text>
+<clipPath id="c3"><rect x="50" y="127" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.225;0.280;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="144" fill="#484F58" text-anchor="end">4</text>
+<text x="50" y="144" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#E6EDF3">    </tspan><tspan fill="#FF7B72">while </tspan><tspan fill="#E6EDF3">(cafe &gt; </tspan><tspan fill="#FFA657">0</tspan><tspan fill="#E6EDF3">) {</tspan></text>
+<clipPath id="c4"><rect x="50" y="151" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.290;0.345;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="168" fill="#484F58" text-anchor="end">5</text>
+<text x="50" y="168" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#E6EDF3">        dev.</tspan><tspan fill="#D2A8FF">programar</tspan><tspan fill="#E6EDF3">()  </tspan><tspan fill="#8B949E">// hasta que funcione</tspan></text>
+<clipPath id="c5"><rect x="50" y="175" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.355;0.410;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="192" fill="#484F58" text-anchor="end">6</text>
+<text x="50" y="192" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#E6EDF3">    }</tspan></text>
+<clipPath id="c6"><rect x="50" y="199" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.420;0.475;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="34" y="216" fill="#484F58" text-anchor="end">7</text>
+<text x="50" y="216" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#E6EDF3">}</tspan></text>
+<clipPath id="c7"><rect x="18" y="247" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.485;0.540;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="18" y="264" xml:space="preserve" clip-path="url(#c7)"><tspan fill="#3FB950">$ </tspan><tspan fill="#E6EDF3">./gradlew run</tspan></text>
+<clipPath id="c8"><rect x="18" y="271" height="24" width="0"><animate attributeName="width" values="0;0;560;560;0;0" keyTimes="0;0.550;0.605;0.93;0.94;1" dur="14s" repeatCount="indefinite"/></rect></clipPath>
+<text x="18" y="288" xml:space="preserve" clip-path="url(#c8)"><tspan fill="#3FB950">BUILD SUCCESSFUL </tspan><tspan fill="#8B949E">· Gabriel listo para programar</tspan></text>
+<rect x="447" y="274" width="9" height="18" fill="#E6EDF3"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
+</svg>
