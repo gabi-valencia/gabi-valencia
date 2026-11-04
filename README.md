@@ -10,7 +10,7 @@
 
 ---
 
-<img src="foto.jpg" width="210" align="right" />
+<img src="foto.png" width="210" align="right" />
 
 ### 🧑‍💻 Sobre mí
 
